@@ -2,10 +2,15 @@
 
 A production-quality full-stack web application that streamlines the expense reimbursement process within an organization. The system enables employees to submit expense vouchers, directors to review and approve requests, and the accounts team to manage approved reimbursements through a secure role-based workflow.
 
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql)
-![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=flat&logo=jsonwebtokens)
+## Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React 18, Vite, Tailwind CSS, React Router DOM |
+| Backend | Node.js, Express.js |
+| Database | MySQL |
+| Authentication | JWT, bcryptjs |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
